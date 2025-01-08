@@ -44,6 +44,6 @@ Este proyecto es una aplicación web que permite consultar el tiempo atmosféric
 * Reemplaza `'09bf505a2665dd9ad67bb85b6880467e'` con tu propia API key.
 
 **Demostración:**
-https://calculadora-html-css-y-js.netlify.app/
+[Aplicación meteorológica con OpenWeatherMap](https://app-clima-openweathermap-html-css-js.netlify.app/)
 
 Este README describe las funcionalidades de tu aplicación meteorológica, las tecnologías utilizadas y cómo utilizarla. También incluye información importante sobre la API key de OpenWeatherMap.
